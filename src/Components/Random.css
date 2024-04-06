@@ -1,0 +1,33 @@
+.Random{
+    min-height: 400px;
+    width: 45%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;justify-content: space-around;
+    background-color: rgb(91, 237, 91);
+    opacity: 200;
+    padding: 10px;
+    border-radius: 10px;
+}
+.card-head{
+    font-size: 20px;
+    font-weight: 800;
+}
+button{
+    font-size: 20px;
+    font-weight: 700;
+    width: 80%;
+    height: 15%;
+    margin-top: 20px;
+    padding: 8px;
+    color: black;   
+    border: 0px;
+    border-radius: 7px;
+    background-color: white;
+    opacity: 10;
+}
+img{
+    min-width: 50%;
+    min-height: 250px;
+}
